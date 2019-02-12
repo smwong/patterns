@@ -1,0 +1,1 @@
+Based on core rectangle which repeats up and down with alternating columns of the design dropping halfway down the height of the previous one.

@@ -1,0 +1,1 @@
+Most basic type of repeating pattern. Arranged to either remain within a core rectangle or to overlap and then repeat in grid formation.

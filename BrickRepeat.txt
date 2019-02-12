@@ -1,0 +1,1 @@
+Similar to the half drop, but instead of alternating columns it's the rows that alternate. Formation looks like brick wall.
