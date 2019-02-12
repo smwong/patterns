@@ -1,0 +1,1 @@
+Essentially a grid of squares rotated 45 degrees to create a diagonal formation.
